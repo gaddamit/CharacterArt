@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+Content/StarterContent/
